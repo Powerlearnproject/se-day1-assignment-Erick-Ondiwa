@@ -92,7 +92,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 Vague Prompt:
 
-"Tell me about Python."
+"Tell me about Python?"
 
 Improved Prompt:
 
